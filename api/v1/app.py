@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''A Flask web application API.
+'''A Flask web application API
 '''
 import os
 from flask import Flask, make_response, jsonify
