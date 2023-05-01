@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-""" objects that handles all default RestFul API actions for Amenities
+""" objects that handles all default RestFul API actions for Amenities.
 """
 
 from models.amenity import Amenity
