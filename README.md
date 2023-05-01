@@ -158,8 +158,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Andrew Ishaku Wreford - [Github](https://github.com/wrefinity) /[LinkedIn](https://www.linkedin.com/in/ishaku-wreford-andrew-87b334181/)
 Monday Odoh - [Github](https://github.com/Monemax94) / [Linkedin](https://www.linkedin.com/in/monday-odoh-091090171/)
-Ifeanyi Jonathan
-Okoroafor Wisdom 
 Second part of Airbnb: Joann Vuong
+Ifeanyi Jonathan Udoka -[Github] (https://github.com/Cyberod)
+Okoroafor Wisdom Onyinye - [Github] (https://github.com/wisdomoo)
 ## License
 Public Domain. No copy write protection. 
